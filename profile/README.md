@@ -14,6 +14,7 @@
 ### 멤버
 - PM / CTO : 김건우
 - BackEnd PM : 류현서
+- BackEnd : 김동찬
 - FrontEnd PM : 박규민
 - FrontEnd / Design PM : 서영우
 - App Dev : 신민호
